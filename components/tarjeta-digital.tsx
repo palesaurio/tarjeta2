@@ -178,8 +178,8 @@ export default function TarjetaDigital() {
                 </svg>
               </div>
               <div>
-                <p className="font-medium">TikTok</p>
-                <p className="text-sm text-gray-500">Próximamente</p>
+                <p className="font-medium">Pagina Web</p>
+                <p className="text-sm text-gray-500">https://juliaweb.vercel.app/</p>
               </div>
             </a>
           </TabsContent>
