@@ -18,7 +18,7 @@ export default function TarjetaDigital() {
     email: "lic.juliavillagomez31@gmail.com",
     facebook: "https://www.facebook.com/profile.php?id=61575199135422",
     instagram: "https://www.instagram.com/juez.juliavillagomezmartinez/",
-    Paginaweb: "https://juliaweb.vercel.app/", // Agregar el enlace de TikTok cuando esté disponible
+    paginaweb: "https://juliaweb.vercel.app/", // Agregar el enlace de TikTok cuando esté disponible
     grupoWhatsApp: {
       nombre: "Aprendiendo a votar y ejercer nuestros derechos",
       url: "https://chat.whatsapp.com/GbXi89xvPME1plxumTDtDU",
@@ -154,7 +154,7 @@ export default function TarjetaDigital() {
             </a>
 
             <a
-              href={contactInfo.tiktok}
+              href={contactInfo.paginaweb}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 p-3 rounded-lg hover:bg-gray-100 transition-colors"
